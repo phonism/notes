@@ -1,5 +1,3 @@
-package StrategyPattern;
-
 public abstract class Duck {
 	
 	QuackBehavior quackBehavior;

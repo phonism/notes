@@ -1,5 +1,3 @@
-package StrategyPattern;
-
 public class ModelDuck extends Duck {
 
 	public ModelDuck() {
