@@ -1,3 +1,2 @@
 Prepare for the interview
 ========================
-\
