@@ -1,6 +1,9 @@
 [Light OJ](http://lightoj.com)
 ==============================
 
+The number of all problems: 435
+The number of accepted problems: 35
+
 | Problem ID | Status | Category | More Detail |
 |:----------:|:------:|:--------:|:---------:|
 | 1000 | Accepted | Beginners Problems |    |
@@ -85,10 +88,10 @@
 | 1079 |          |                  |
 | 1080 |          |                  |
 | 1081 |          |                  |
-| 1082 |          |                  |
+| 1082 | Accepted | RMQ | Query minimum values in range |
 | 1083 |          |                  |
 | 1084 |          |                  |
-| 1085 |          |                  |
+| 1085 | Accepted | BIT | |
 | 1086 |          |                  |
 | 1087 |          |                  |
 | 1088 | Accepted | Binary Search |  |
@@ -97,12 +100,12 @@
 | 1091 |          |                  |
 | 1092 |          |                  |
 | 1093 |          |                  |
-| 1094 |          |                  |
+| 1094 | Accepted | DFS | Find the most farthest nodes in a tree |
 | 1095 |          |                  |
 | 1096 |          |                  |
 | 1097 |          |                  |
 | 1098 |          |                  |
-| 1099 | Accepted | Dijkstra | Find the second shortest path in a graph |
+| 1099 | Accepted | Shortest Path | Find the second shortest path in a graph |
 | 1100 |          |                  |
 | 1101 |          |                  |
 | 1102 | Accepted |                  |
@@ -205,7 +208,7 @@
 | 1199 |          |                  |
 | 1200 |          |                  |
 | 1201 |          |                  |
-| 1202 |          |                  |
+| 1202 | Accepted |                  |
 | 1203 |          |                  |
 | 1204 |          |                  |
 | 1205 |          |                  |
