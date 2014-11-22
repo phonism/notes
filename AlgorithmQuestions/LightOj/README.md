@@ -1,8 +1,10 @@
 [Light OJ](http://lightoj.com)
 ==============================
 
-The number of all problems: 435
-The number of accepted problems: 35
+The number of all problems: **435**
+
+
+The number of accepted problems: **35**
 
 | Problem ID | Status | Category | More Detail |
 |:----------:|:------:|:--------:|:---------:|
