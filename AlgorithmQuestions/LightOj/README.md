@@ -1,10 +1,10 @@
 [Light OJ](http://lightoj.com)
 ==============================
 
-| Problem ID   | Status   | Category |
-|:------------:|:--------:|:--------:|
-| 1000 | Accepted | Beginners Problems |
-| 1001 | Accepted | Beginners Problems |
+| Problem ID | Status | Category | Soltuions |
+|:----------:|:------:|:--------:|:---------:|
+| 1000 | Accepted | Beginners Problems | sum A + b |
+| 1001 | Accepted | Beginners Problems | Just test for the really long sentencs, what will the markdonw do |
 | 1002 | Accepted |                  |
 | 1003 | Accepted |                  |
 | 1004 | Accepted |                  |
