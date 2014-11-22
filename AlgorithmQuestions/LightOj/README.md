@@ -1,7 +1,7 @@
 [Light OJ](http://lightoj.com)
 ==============================
 
-Problem ID | Status
----------- | ------
-1000 | Yes
-1001 | Yes
+ID | Status | Category
+-- | ------ | --------
+1000 | Accepted | Beginners Problems
+1001 | Accepted | Beginners Problems
