@@ -3,44 +3,44 @@
 
 The number of all problems: **435**
 
-The number of accepted problems: **35**
+The number of **_Accepted_** problems: **35**
 
 
 | Problem ID | Status | Category | More Detail |
 |:----------:|:------:|:--------:|:---------:|
-| [1000](http://lightoj.com/volume_showproblem.php?problem=1000) | Accepted | Beginners Problems |    |
-| [1001](http://lightoj.com/volume_showproblem.php?problem=1001) | Accepted | Beginners Problems |	|
-| [1002](http://lightoj.com/volume_showproblem.php?problem=1002) | Accepted |                  |    |
-| [1003](http://lightoj.com/volume_showproblem.php?problem=1003) | Accepted |                  |    |
-| [1004](http://lightoj.com/volume_showproblem.php?problem=1004) | Accepted |                  |
-| [1005](http://lightoj.com/volume_showproblem.php?problem=1005) | Accepted |                  |
-| [1006](http://lightoj.com/volume_showproblem.php?problem=1006) | Accepted |                  |
-| [1007](http://lightoj.com/volume_showproblem.php?problem=1007) | Accepted |                  |
-| [1008](http://lightoj.com/volume_showproblem.php?problem=1008) | Accepted |                  |
-| [1009](http://lightoj.com/volume_showproblem.php?problem=1009) | Accepted |                  |
-| [1010](http://lightoj.com/volume_showproblem.php?problem=1010) | Accepted |                  |
-| [1011](http://lightoj.com/volume_showproblem.php?problem=1011) | Accepted |                  |
-| [1012](http://lightoj.com/volume_showproblem.php?problem=1012) | Accepted |                  |
-| [1013](http://lightoj.com/volume_showproblem.php?problem=1013) | Accepted |                  |
-| [1014](http://lightoj.com/volume_showproblem.php?problem=1014) | Accepted |                  |
-| [1015](http://lightoj.com/volume_showproblem.php?problem=1015) | Accepted |                  |
-| [1016](http://lightoj.com/volume_showproblem.php?problem=1016) | Accepted |                  |
-| [1017](http://lightoj.com/volume_showproblem.php?problem=1017) | Accepted |                  |
-| [1018](http://lightoj.com/volume_showproblem.php?problem=1018) | Accepted |                  |
-| [1019](http://lightoj.com/volume_showproblem.php?problem=1019) | Accepted |                  |
-| [1020](http://lightoj.com/volume_showproblem.php?problem=1020) | Accepted |                  |
+| [1000](http://lightoj.com/volume_showproblem.php?problem=1000) | **_Accepted_** | Beginners Problems |    |
+| [1001](http://lightoj.com/volume_showproblem.php?problem=1001) | **_Accepted_** | Beginners Problems |	|
+| [1002](http://lightoj.com/volume_showproblem.php?problem=1002) | **_Accepted_** |                  |    |
+| [1003](http://lightoj.com/volume_showproblem.php?problem=1003) | **_Accepted_** |                  |    |
+| [1004](http://lightoj.com/volume_showproblem.php?problem=1004) | **_Accepted_** |                  |
+| [1005](http://lightoj.com/volume_showproblem.php?problem=1005) | **_Accepted_** |                  |
+| [1006](http://lightoj.com/volume_showproblem.php?problem=1006) | **_Accepted_** |                  |
+| [1007](http://lightoj.com/volume_showproblem.php?problem=1007) | **_Accepted_** |                  |
+| [1008](http://lightoj.com/volume_showproblem.php?problem=1008) | **_Accepted_** |                  |
+| [1009](http://lightoj.com/volume_showproblem.php?problem=1009) | **_Accepted_** |                  |
+| [1010](http://lightoj.com/volume_showproblem.php?problem=1010) | **_Accepted_** |                  |
+| [1011](http://lightoj.com/volume_showproblem.php?problem=1011) | **_Accepted_** |                  |
+| [1012](http://lightoj.com/volume_showproblem.php?problem=1012) | **_Accepted_** |                  |
+| [1013](http://lightoj.com/volume_showproblem.php?problem=1013) | **_Accepted_** |                  |
+| [1014](http://lightoj.com/volume_showproblem.php?problem=1014) | **_Accepted_** |                  |
+| [1015](http://lightoj.com/volume_showproblem.php?problem=1015) | **_Accepted_** |                  |
+| [1016](http://lightoj.com/volume_showproblem.php?problem=1016) | **_Accepted_** |                  |
+| [1017](http://lightoj.com/volume_showproblem.php?problem=1017) | **_Accepted_** |                  |
+| [1018](http://lightoj.com/volume_showproblem.php?problem=1018) | **_Accepted_** |                  |
+| [1019](http://lightoj.com/volume_showproblem.php?problem=1019) | **_Accepted_** |                  |
+| [1020](http://lightoj.com/volume_showproblem.php?problem=1020) | **_Accepted_** |                  |
 | [1021](http://lightoj.com/volume_showproblem.php?problem=1021) |          |                  |
-| [1022](http://lightoj.com/volume_showproblem.php?problem=1022) | Accepted |                  |
-| [1023](http://lightoj.com/volume_showproblem.php?problem=1023) | Accepted |                  |
-| [1024](http://lightoj.com/volume_showproblem.php?problem=1024) | Accepted |                  |
+| [1022](http://lightoj.com/volume_showproblem.php?problem=1022) | **_Accepted_** |                  |
+| [1023](http://lightoj.com/volume_showproblem.php?problem=1023) | **_Accepted_** |                  |
+| [1024](http://lightoj.com/volume_showproblem.php?problem=1024) | **_Accepted_** |                  |
 | [1025](http://lightoj.com/volume_showproblem.php?problem=1025) |          |                  |
-| [1026](http://lightoj.com/volume_showproblem.php?problem=1026) | Accepted |                  |
-| [1027](http://lightoj.com/volume_showproblem.php?problem=1027) | Accepted |                  |
-| [1028](http://lightoj.com/volume_showproblem.php?problem=1028) | Accepted |                  |
+| [1026](http://lightoj.com/volume_showproblem.php?problem=1026) | **_Accepted_** |                  |
+| [1027](http://lightoj.com/volume_showproblem.php?problem=1027) | **_Accepted_** |                  |
+| [1028](http://lightoj.com/volume_showproblem.php?problem=1028) | **_Accepted_** |                  |
 | [1029](http://lightoj.com/volume_showproblem.php?problem=1029) |          |                  |
 | [1030](http://lightoj.com/volume_showproblem.php?problem=1030) |          |                  |
-| [1031](http://lightoj.com/volume_showproblem.php?problem=1031) | Accepted |                  |
-| [1032](http://lightoj.com/volume_showproblem.php?problem=1032) | Accepted |                  |
+| [1031](http://lightoj.com/volume_showproblem.php?problem=1031) | **_Accepted_** |                  |
+| [1032](http://lightoj.com/volume_showproblem.php?problem=1032) | **_Accepted_** |                  |
 | [1033](http://lightoj.com/volume_showproblem.php?problem=1033) |          |                  |
 | [1034](http://lightoj.com/volume_showproblem.php?problem=1034) |          |                  |
 | [1035](http://lightoj.com/volume_showproblem.php?problem=1035) |          |                  |
@@ -90,27 +90,27 @@ The number of accepted problems: **35**
 | [1079](http://lightoj.com/volume_showproblem.php?problem=1079) |          |                  |
 | [1080](http://lightoj.com/volume_showproblem.php?problem=1080) |          |                  |
 | [1081](http://lightoj.com/volume_showproblem.php?problem=1081) |          |                  |
-| [1082](http://lightoj.com/volume_showproblem.php?problem=1082) | Accepted | RMQ | Query minimum values in range |
+| [1082](http://lightoj.com/volume_showproblem.php?problem=1082) | **_Accepted_** | RMQ | Query minimum values in range |
 | [1083](http://lightoj.com/volume_showproblem.php?problem=1083) |          |                  |
 | [1084](http://lightoj.com/volume_showproblem.php?problem=1084) |          |                  |
-| [1085](http://lightoj.com/volume_showproblem.php?problem=1085) | Accepted | BIT | |
+| [1085](http://lightoj.com/volume_showproblem.php?problem=1085) | **_Accepted_** | BIT | |
 | [1086](http://lightoj.com/volume_showproblem.php?problem=1086) |          |                  |
 | [1087](http://lightoj.com/volume_showproblem.php?problem=1087) |          |                  |
-| [1088](http://lightoj.com/volume_showproblem.php?problem=1088) | Accepted | Binary Search |  |
+| [1088](http://lightoj.com/volume_showproblem.php?problem=1088) | **_Accepted_** | Binary Search |  |
 | [1089](http://lightoj.com/volume_showproblem.php?problem=1089) |          |                  |
 | [1090](http://lightoj.com/volume_showproblem.php?problem=1090) |          |                  |
 | [1091](http://lightoj.com/volume_showproblem.php?problem=1091) |          |                  |
 | [1092](http://lightoj.com/volume_showproblem.php?problem=1092) |          |                  |
 | [1093](http://lightoj.com/volume_showproblem.php?problem=1093) |          |                  |
-| [1094](http://lightoj.com/volume_showproblem.php?problem=1094) | Accepted | DFS | Find the most farthest nodes in a tree |
+| [1094](http://lightoj.com/volume_showproblem.php?problem=1094) | **_Accepted_** | DFS | Find the most farthest nodes in a tree |
 | [1095](http://lightoj.com/volume_showproblem.php?problem=1095) |          |                  |
 | [1096](http://lightoj.com/volume_showproblem.php?problem=1096) |          |                  |
 | [1097](http://lightoj.com/volume_showproblem.php?problem=1097) |          |                  |
 | [1098](http://lightoj.com/volume_showproblem.php?problem=1098) |          |                  |
-| [1099](http://lightoj.com/volume_showproblem.php?problem=1099) | Accepted | Shortest Path | Find the second shortest path in a graph |
+| [1099](http://lightoj.com/volume_showproblem.php?problem=1099) | **_Accepted_** | Shortest Path | Find the second shortest path in a graph |
 | [1100](http://lightoj.com/volume_showproblem.php?problem=1100) |          |                  |
 | [1101](http://lightoj.com/volume_showproblem.php?problem=1101) |          |                  |
-| [1102](http://lightoj.com/volume_showproblem.php?problem=1102) | Accepted |                  |
+| [1102](http://lightoj.com/volume_showproblem.php?problem=1102) | **_Accepted_** |                  |
 | [1103](http://lightoj.com/volume_showproblem.php?problem=1103) |          |                  |
 | [1104](http://lightoj.com/volume_showproblem.php?problem=1104) |          |                  |
 | [1105](http://lightoj.com/volume_showproblem.php?problem=1105) |          |                  |
@@ -210,7 +210,7 @@ The number of accepted problems: **35**
 | [1199](http://lightoj.com/volume_showproblem.php?problem=1199) |          |                  |
 | [1200](http://lightoj.com/volume_showproblem.php?problem=1200) |          |                  |
 | [1201](http://lightoj.com/volume_showproblem.php?problem=1201) |          |                  |
-| [1202](http://lightoj.com/volume_showproblem.php?problem=1202) | Accepted |                  |
+| [1202](http://lightoj.com/volume_showproblem.php?problem=1202) | **_Accepted_** |                  |
 | [1203](http://lightoj.com/volume_showproblem.php?problem=1203) |          |                  |
 | [1204](http://lightoj.com/volume_showproblem.php?problem=1204) |          |                  |
 | [1205](http://lightoj.com/volume_showproblem.php?problem=1205) |          |                  |
