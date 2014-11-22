@@ -3,7 +3,7 @@
 
 The number of all problems: **435**
 
-The number of **_Accepted_** problems: **35**
+The number of *Accepted* problems: **35**
 
 
 | Problem ID | Status | Category | More Detail |
