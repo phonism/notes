@@ -1,7 +1,7 @@
 [Sphere online judge](http://www.spoj.com/)
 ===========================================
 
-The number of *Accepted* problems: **11**
+The number of *Accepted* problems: **12**
 
 
 | Problem ID | Status | Category | More Detail |
@@ -17,3 +17,4 @@ The number of *Accepted* problems: **11**
 | [ABSYS](http://www.spoj.com/problems/ABSYS/) | **_Accepted_** | Easy Problem |  |
 | [HELLOKIT](http://www.spoj.com/problems/HELLOKIT/) | **_Accepted_** | Easy Problem |  |
 | [BYTESM2](http://www.spoj.com/problems/BYTESM2/) | **_Accepted_** | Dynamic Programming |  |
+| [SWERC14A](http://www.spoj.com/problems/SWERC14A/) | **_Accepted_** | Brute Force |  |
