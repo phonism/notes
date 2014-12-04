@@ -16,4 +16,4 @@ The number of *Accepted* problems: **11**
 | [GCPC11A](http://www.spoj.com/problems/GCPC11A/) | **_Accepted_** | Math Problem | Warning: overflow |
 | [ABSYS](http://www.spoj.com/problems/ABSYS/) | **_Accepted_** | Easy Problem |  |
 | [HELLOKIT](http://www.spoj.com/problems/HELLOKIT/) | **_Accepted_** | Easy Problem |  |
-| [BYTESM2](http://www.spoj.com/problems/BYTESM2/) | Dynamic Programming |  |
+| [BYTESM2](http://www.spoj.com/problems/BYTESM2/) | **_Accepted_** | Dynamic Programming |  |
