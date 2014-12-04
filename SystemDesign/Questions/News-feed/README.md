@@ -6,3 +6,4 @@ Users in most social networking sites are describable in terms of a social graph
 
 #### Determininig Importance
 You'll likely want to rank edges by importance rather than simply the most recent updates, meaning that you need to calculate some sort of score. Facebook's _EdgeRank_ was described by the formula ![equation](http://www.sciweavers.org/tex2img.php?eq=%5Csum_%7Be%7Du_e%20w_e%20d_e&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29%0D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
