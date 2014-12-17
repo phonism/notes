@@ -25,3 +25,6 @@ The [Java implements](https://github.com/phonism/Interview/tree/master/DesignPat
 
 + [Haskell](https://github.com/phonism/Interview/tree/master/ProgrammingLanguage/Haskell/)
     - [99Questions](https://github.com/phonism/Interview/tree/master/ProgrammingLanguage/Haskell/99Questions)
+    
+
+**To Be Continued...**
