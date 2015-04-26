@@ -18,3 +18,4 @@ test = int(input())
 for cas in range(test):
     n = int(input())
     print sum_of_n[n] * sum_of_n[n] - sum_of_square_n[n]
+
