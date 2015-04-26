@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # Copyright (c) 2015 - Qi Lu <luqi.code@gmail.com>
 
+
 prime = []
 check = [False] * 200100
 prime.append(0)
