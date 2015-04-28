@@ -34,3 +34,9 @@ In MySQL, your tables would be heavily denormalized since performing joins will 
 
 #### Publishing Methods
 _**"Push" Model, or Fan-out-on-write**_
+
+This method involves denormalizing the user's activity data and pushing the metadata to all the user's friends at the time in occurs. You store only one copy of the data as in the schema above, then push pointers to friends with the metadata. The problem with this method is that if you have a large fan-out(a larege number of followers), you run the risk of this breaking whild your feed accumulateds a backlog. If you go with this startegy, you also risk a large number of disk seeks and random writes. You'll want some sort of write optimized data store suck as Cassandra, HBase, or BigTable.
+
+_**"Pull" Model, or Fan-out-on-load**_
+
+This method involves keeping all recent activity data in memory and pulling in (or fanning out) that data at the time a user loads their home page. Data doesn't need to be pushed out to all subscribers as soon as it happens, so no bak-log and no disk seeks. The problem with this method is that you may fail to generate a user's news feed altogether. To mitigate this risk, you should have a fallback mechanism in place that approximates the user's feed or serves as a god algernative.
