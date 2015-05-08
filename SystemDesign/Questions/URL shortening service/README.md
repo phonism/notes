@@ -22,3 +22,18 @@ Scaling Erbo.ly will primarily involve using additional Web servers on the front
 
 I'm leaving out discussion of certain considerations, such as possible use of HTTPS for security, or the fact that, since I use a .ly domain name, the Libyan government won't want me shortening porn URLs or anything "immoral."  But these are things that would have to be figured out for an actual, working service.
 
+
+## Design a url shortening service, like bit.ly
+
+### Use Cases
++ 1. Shortening: take a url => return a much shorter url
++ 2. Redirection: take a short url => redirect to the original url
++ 3. Custom url
++ 4. High avaliablity of the system
+    + 1. Analytics
+    + 2. Automatic link expiration
+    + 3. Manual link removal
+    + 4. UI VS API
+
+### Math
+
