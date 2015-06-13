@@ -17,4 +17,4 @@ to
 ```
 
 ### Solution
-Juet swap the left pointer and right pointer.
+Just swap the left pointer and right pointer.
