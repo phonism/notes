@@ -28,11 +28,10 @@ int main() {
         ok = true;
     if (b2 + b3 <= b1 && max(a2, a3) <= a1)
         ok = true;
-    if (a2 + a3 <= b1 && max(b2, a3) <= a1)
+    if (a2 + a3 <= b1 && max(b2, b3) <= a1)
         ok = true;
     if (a2 + b3 <= b1 && max(b2, a3) <= a1)
         ok = true;
     puts(ok ? "YES" : "NO");
     return 0;
 }
-    
