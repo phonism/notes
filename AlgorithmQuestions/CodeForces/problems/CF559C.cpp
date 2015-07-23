@@ -6,7 +6,7 @@
 #include <cmath>
 using namespace std;
 
-const int maxn = 100100;
+const int maxn = 400100;
 const int mod = 1000000007;
 
 long long fac[maxn], ifac[maxn];
