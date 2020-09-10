@@ -8,18 +8,18 @@
 using namespace std;
 
 long long fast_mul(long long a, long long b, long long p) {
-	long long ans = 0;
-	for (; b; b >>= 1) {
-		if (b & 1) {
-			ans = (ans + a) % p;
-		}
-		a = a * 2 % p;
-	}
-	return ans;
+    long long ans = 0;
+    for (; b; b >>= 1) {
+        if (b & 1) {
+            ans = (ans + a) % p;
+        } 
+        a = a * 2 % p; 
+    }
+    return ans;
 }
 
 int main() {
-	long long a, b, p;
-	cin >> a >> b >> p;
-	cout << fast_mul(a, b, p) << endl;
+    long long a, b, p;
+    cin >> a >> b >> p;
+    cout << fast_mul(a, b, p) << endl;
 }

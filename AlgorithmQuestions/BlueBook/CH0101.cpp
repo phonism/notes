@@ -8,19 +8,19 @@
 using namespace std;
 
 long long fast_mod(int a, int b, int p) {
-	long long ans = 1 % p;
-	long long tmp = a;
-	for (; b > 0; b /= 2) {
-		if (b % 2 == 1) {
-			ans = ans * tmp % p;
-		}
-		tmp = tmp * tmp % p;
-	}
-	return ans;
+    long long ans = 1 % p;
+    long long tmp = a;
+    for (; b > 0; b /= 2) {
+        if (b % 2 == 1) {
+            ans = ans * tmp % p;
+        }
+        tmp = tmp * tmp % p;
+    }
+    return ans;
 }
 
 int main() {
-	int a, b, p;
-	cin >> a >> b >> p;
-	cout << fast_mod(a, b, p) << endl;
+    int a, b, p;
+    cin >> a >> b >> p;
+    cout << fast_mod(a, b, p) << endl;
 }

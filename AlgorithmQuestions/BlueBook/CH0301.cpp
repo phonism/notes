@@ -10,24 +10,24 @@ int n;
 vector<int> chosen;
 
 void calc(int x) {
-	if (x == n + 1) {
-		for (int i = 0; i < chosen.size(); ++i) {
-			printf("%d ", chosen[i]);
-		}
-		puts("");
-		return ;
-	}
+    if (x == n + 1) {
+        for (int i = 0; i < chosen.size(); ++i) {
+            printf("%d ", chosen[i]);
+        }
+        puts("");
+        return ;
+    }
 
-	// not chose x
-	calc(x + 1);
+    // not chose x
+    calc(x + 1);
 
-	// chose x
-	chosen.push_back(x);
-	calc(x + 1);
-	chosen.pop_back();
+    // chose x
+    chosen.push_back(x);
+    calc(x + 1);
+    chosen.pop_back();
 }
 
 int main() {
-	cin >> n;
-	calc(1);
+    cin >> n;
+    calc(1);
 }

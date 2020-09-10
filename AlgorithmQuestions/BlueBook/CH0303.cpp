@@ -13,27 +13,27 @@ int n, order[N];
 bool chosen[N];
 
 void calc(int k) {
-	if (k == n + 1) {
-		for (int i = 1; i <= n; ++i) {
-			printf("%d ", order[i]);
-		}
-		puts("");
-		return;
-	}
+    if (k == n + 1) {
+        for (int i = 1; i <= n; ++i) {
+            printf("%d ", order[i]);
+        }
+        puts("");
+        return;
+    }
 
-	for (int i = 1; i <= n; ++i) {
-		if (chosen[i]) {
-			continue;
-		}
-		order[k] = i;
-		chosen[i] = true;
-		calc(k + 1);
-		chosen[i] = false;
-	}
+    for (int i = 1; i <= n; ++i) {
+        if (chosen[i]) {
+            continue;
+        }
+        order[k] = i;
+        chosen[i] = true;
+        calc(k + 1);
+        chosen[i] = false;
+    }
 }
 
 int main() {
-	scanf("%d", &n);
-	memset(chosen, false, sizeof(chosen));
-	calc(1);
+    scanf("%d", &n);
+    memset(chosen, false, sizeof(chosen));
+    calc(1);
 }
