@@ -13,24 +13,24 @@ int fx[] = {1, 0, -1, 0, 0};
 int fy[] = {0, 1, 0, -1, 0};
 
 void change_state(int x, int y) {
-	for (int i = 0; i < 5; ++i) {
-		int nx = x + fx[i];
-		int ny = y + fy[i];
-		if (nx >= 0 && nx < 5 && ny >= 0 && ny < 5) {
-			state[nx][ny] = 1 - state[nx][ny];
-		}
-	}
+    for (int i = 0; i < 5; ++i) { 
+        int nx = x + fx[i];
+        int ny = y + fy[i];
+        if (nx >= 0 && nx < 5 && ny >= 0 && ny < 5) {
+            state[nx][ny] = 1 - state[nx][ny];
+        }
+    }
 }
 
 bool check() {
-	for (int i = 0; i < 5; ++i) {
-		for (int j = 0; j < 5; ++j) {
-			if (state[i][j] == 0) {
-				return false;
-			}
-		}
-	}
-	return true;
+    for (int i = 0; i < 5; ++i) {
+        for (int j = 0; j < 5; ++j) {
+            if (state[i][j] == 0) {
+                return false;
+            }
+        }
+    }
+    return true;
 }
 
 void copy() {
@@ -42,12 +42,12 @@ void copy() {
 }
 
 void print() {
-	for (int i = 0; i < 5; ++i) {
-		for (int j = 0; j < 5; ++j) {
-			printf("%d ", state[i][j]);
-		}
-		puts("");
-	}
+    for (int i = 0; i < 5; ++i) {
+        for (int j = 0; j < 5; ++j) {
+            printf("%d ", state[i][j]);
+        }
+        puts("");
+    }
 }
 
 void calc() {
@@ -78,23 +78,22 @@ void calc() {
 
 
 int main() {
-	int n;
-	string s;
-	scanf("%d", &n);
-	for (int t = 0; t < n; ++t) {
-		step = 0, ans = 100;
-		for (int i = 0; i < 5; ++i) {
-			cin >> s;
-			for (int j = 0; j < 5; ++j) {
-				ori_state[i][j] = s[j] - '0';
-				// printf("%d\n", state[i][j]);
-			}
-		}
-		calc();
-		if (ans > 6) {
-			puts("-1");
-		} else {
-			printf("%d\n", ans);
-		}
-	}
+    int n;
+    string s;
+    scanf("%d", &n);
+    for (int t = 0; t < n; ++t) {
+        step = 0, ans = 100;
+        for (int i = 0; i < 5; ++i) {
+            cin >> s;
+            for (int j = 0; j < 5; ++j) {
+                ori_state[i][j] = s[j] - '0';
+            }
+        }
+        calc();
+        if (ans > 6) {
+            puts("-1");
+        } else {
+            printf("%d\n", ans);
+        }
+    }
 }
