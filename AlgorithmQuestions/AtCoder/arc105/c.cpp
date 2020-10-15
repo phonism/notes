@@ -4,18 +4,21 @@ using namespace std;
 const int N = 10;
 const int M = 1e5 + 10;
 
-int a[N], l[M], v[M];
+int l[M], v[M];
 int d[N];
-int mx[M];
+int mx[M] = {0};
 vector<pair<int, int>> bri;
 vector<int> val;
+vector<int> a;
 
 int main() {
     int n, m;
     cin >> n >> m;
     int max_a = 0;
     for (int i = 0; i < n; ++i) {
-        cin >> a[i];
+        int x;
+        cin >> x;
+        a.push_back(x);
         max_a = max(max_a, a[i]);
     }
     bool ok = true;
@@ -25,7 +28,6 @@ int main() {
             ok = false;
         }
         bri.push_back(make_pair(v[i], l[i]));
-        val.push_back(v[i]);
     }
 
     if (ok == false) {
@@ -33,15 +35,19 @@ int main() {
         return 0;
     }
 
+    sort(a.begin(), a.end());
     sort(bri.begin(), bri.end());
-    sort(val.begin(), val.end());
+
+    for (int i = 0; i < m; ++i) {
+        val.push_back(bri[i].first);
+    }
 
     mx[0] = bri[0].second;
     for (int i = 1; i < m; ++i) {
         mx[i] = max(mx[i - 1], bri[i].second);
     }
 
-    int ans = 1e9;
+    int ans = 2e9;
     do {
         int adj[N][N];
         for (int i = 0; i < n; ++i) {
@@ -65,6 +71,6 @@ int main() {
             }
         }
         ans = min(ans, adj[0][n-1]);
-    } while (next_permutation(a, a + n));
+    } while (next_permutation(a.begin(), a.end()));
     cout << ans << endl;
 }
