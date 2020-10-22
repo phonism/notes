@@ -12,7 +12,7 @@ int main() {
         cin >> a[i];
     }
 
-    int sum = 0;
+    long long sum = 0;
     int pre = 0;
     int prex = 0;
     int r = -1;
