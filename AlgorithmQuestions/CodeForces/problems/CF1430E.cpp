@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 1e5 + 100;
+const int N = 2e5 + 100;
 
 struct SegNode {
     int l, r;
