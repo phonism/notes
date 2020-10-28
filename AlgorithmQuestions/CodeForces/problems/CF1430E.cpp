@@ -60,7 +60,7 @@ int main() {
     }
     build(1, 1, n);
 
-    int ans = 0;
+    long long ans = 0;
     for (int i = 0; i < n; ++i) {
         int need = s[n - i - 1] - 'a';
         int p = *pos[need].begin();
