@@ -8,3 +8,4 @@
 
 ## 搞不明白！！！！
 + [ARC081E: Don't Be a Subsequence](https://atcoder.jp/contests/arc081/tasks/arc081_c)
++ [ARC066D: Xor Sum](https://atcoder.jp/contests/arc066/tasks/arc066_b)
