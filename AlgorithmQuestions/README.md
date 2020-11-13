@@ -7,6 +7,7 @@
 + [ARC092D: Two Sequences](https://atcoder.jp/contests/arc092/tasks/arc092_b)
 + [AGC038C: LCMs](https://atcoder.jp/contests/agc038/tasks/agc038_c)
 + [ARC067E: Grouping](https://atcoder.jp/contests/arc067/tasks/arc067_c)
++ [ARC067F: Yakiniku Restaurants](https://atcoder.jp/contests/arc067/tasks/arc067_d)
 
 ## 搞不明白！！！！
 + [ARC081E: Don't Be a Subsequence](https://atcoder.jp/contests/arc081/tasks/arc081_c)
